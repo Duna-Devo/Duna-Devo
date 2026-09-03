@@ -2,7 +2,7 @@
 
 **`DevOps Engineer **
 
-Transitioning from Continuous Improvement Engineering in manufacturing into DevOps. AWS Certified Cloud Practitioner and building a fully documented, staged infrastructure portfolio from the ground up.
+Transitioned from Continuous Improvement Engineering in manufacturing into DevOps. AWS Certified Cloud Practitioner and building a fully documented, staged infrastructure portfolio from the ground up.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/odunb/">
