@@ -1,6 +1,6 @@
 # ☁️ Odunayo (Duna) Bolarinwa
 
-**`Cloud DevOps Engineer **
+**`DevOps Engineer **
 
 Transitioning from Continuous Improvement Engineering in manufacturing into Cloud DevOps. AWS Certified Cloud Practitioner and building a fully documented, staged infrastructure portfolio from the ground up.
 
