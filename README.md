@@ -37,7 +37,7 @@ Transitioned from Continuous Improvement Engineering in manufacturing into DevOp
 | Stage 2b | Serverless — Lambda + API Gateway + DynamoDB | ✅ Complete |
 | Stage 3 | CI/CD — GitHub Actions + OIDC | ✅ Complete |
 | Stage 4 | Containers — Docker, ECR, ECS Fargate, ALB | ✅ Complete |
-| Stage 5 | Kubernetes — Node-based | 🔄 In Progress |
+| Stage 5 | Kubernetes — Node-based | ✅ Complete |
 | Stage 5b | Kubernetes — Fargate | 🔄 In Progress |
 | Stage 6 | Observability & SRE | ⏳ Planned |
 | Stage 7 | Security Capstone | ⏳ Planned |
