@@ -2,7 +2,7 @@
 
 **`DevOps Engineer **
 
-A DevOp Engineer with continuous improvement mindset. AWS Certified Cloud Practitioner and building a fully documented, staged infrastructure portfolio from the ground up.
+A DevOps Engineer with continuous improvement mindset. AWS Certified Cloud Practitioner and building a fully documented, staged infrastructure portfolio from the ground up.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/odunb/">
